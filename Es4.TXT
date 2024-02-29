@@ -1,0 +1,4 @@
+Presumiamo di pingare il Server0 192.168.3.2 utilizando il PC1 192.168.1.3. 
+Il percorso dei pacchetti inviati da quest'ultimo passerà tramite lo Switch0 fino ad arrivare al router che fa da "ponte" tra i gateway degli switch a lui collegati.
+Lo Switch2 invierà i pacchetti sia ad Access Point0 (e dispositivi connessi) sia al Server0 192.168.3.2 che essendo il "destinatario" una volta ricevuti ri rispedirà al "mittente".
+
